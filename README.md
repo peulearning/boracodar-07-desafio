@@ -17,7 +17,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="#boraCodar um cartão de embarque " src=".assets/preview.png" width="100%">
+  <img alt="#boraCodar um cartão de embarque " src="./assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
